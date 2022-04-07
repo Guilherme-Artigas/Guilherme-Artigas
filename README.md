@@ -8,7 +8,11 @@ Me considero um bom profissional, muito dedicado, educado e organizado, aprendi 
 
 ## Meus passos aqui no GitHub
 
-![Guilherme Artigas GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-artigas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-artigas&layout=compact)](https://github.com/guilherme-artigas/github-readme-stats)
+![Guilherme Artigas GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-artigas&show_icons=true&theme=dark)
+
+## Tecnologias que estudo no meu dia-dia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-artigas&layout=compact)](https://github.com/guilherme-artigas/github-readme-stats)
 
 ## Últimos Posts:
 
