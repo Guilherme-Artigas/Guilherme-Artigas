@@ -1,4 +1,4 @@
-# Olá, seja bem vindo ao meu perfil aqui no GitHub! 😁
+# Olá, seja bem vindo ao meu perfil aqui no GitHub! 👨‍💻
 
 Me considero um bom profissional, muito dedicado, educado e organizado, aprendi a desenvolver isso ao longo dos anos nas empresas que trabalhei. Meu ultimo trabalho foi com atendimento ao publico, mais eu tenho um sonho em ser um profissional da área de desenvolvimento, dedico horas do meu dia-a-dia a aprender novas linguagens e a melhor maneira de se trabalhar com cada uma delas.
 
