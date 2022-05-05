@@ -1,6 +1,8 @@
-# Olá, seja bem vindo ao meu perfil aqui no GitHub! 👨‍💻
+# Olá, me chamo Guilherme Artigas, seja bem vindo ao meu perfil aqui no GitHub! 👨‍💻
 
-Me considero um bom profissional, muito dedicado, educado e organizado, aprendi a desenvolver isso ao longo dos anos nas empresas que trabalhei. Meu ultimo trabalho foi com atendimento ao publico, mais eu tenho um sonho em ser um profissional da área de desenvolvimento, dedico horas do meu dia-a-dia a aprender novas linguagens e a melhor maneira de se trabalhar com cada uma delas.
+Estou em transição de carreira da área de telecomunicações para área de tecnologia, formado em Gestão da Tecnologia da informação e durante o meu curso conheci a disciplina de programação e a primeira linguagem que tive contato foi C#, aonde desenvolvi um código para calcular as notas e médias, na resolução deste pequeno problema eu vi um potencial muito grande de trabalhar com o que eu me identifico e gosto, a solução de problemas usando raciocínio logico e linguagens de programação.
+
+Estudo das 08hs às 20hs para fazer com que meu sonho se torne realidade, me considero comprometido e esforçado e colaborativo, desenvolvi um pequeno projeto que chamei de passando conhecimento para pratica pessoal e também incentivar pessoas a aprender sobre programação.
 
 ## Minhas Redes
 
