@@ -10,7 +10,7 @@ Estudo das 08hs às 20hs para fazer com que meu sonho se torne realidade, me con
 
 ## Tecnologias que estudo no meu dia-dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-artigas&layout=compact)](https://github.com/guilherme-artigas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-artigas&count_private=true&layout=compact&theme=dark)](https://github.com/guilherme-artigas/github-readme-stats)
 
 ## Últimos Posts:
 
