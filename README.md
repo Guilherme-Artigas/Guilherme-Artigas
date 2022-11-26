@@ -1,4 +1,4 @@
-# Olá, me chamo Guilherme Artigas, seja bem vindo ao meu perfil aqui no GitHub! 👨‍💻
+# Olá, me chamo Guilherme Artigas, seja bem vindo ao meu perfil! 👨‍💻
 
 Estou em transição de carreira da área de telecomunicações para área de tecnologia, formado em Gestão da Tecnologia da informação e durante o meu curso conheci a disciplina de programação e a primeira linguagem que tive contato foi C#, aonde desenvolvi um código para calcular as notas e médias, na resolução deste pequeno problema eu vi um potencial muito grande de trabalhar com o que eu me identifico e gosto, a solução de problemas usando raciocínio logico e linguagens de programação.
 
