@@ -17,3 +17,4 @@ Estudo das 08hs às 20hs para fazer com que meu sonho se torne realidade, me con
 - [Alguns cuidados com o tipo Number](https://www.linkedin.com/posts/guilherme-artigas_ola-pessoal-bom-dia-continuando-minha-sequ%C3%AAncia-activity-6917432353355091968-dD1l?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Exercício em JavaScript](https://www.linkedin.com/posts/guilherme-artigas_exerc%C3%ADcio-em-javascript-que-pede-para-o-usu%C3%A1rio-activity-6895797642828611584-y0pm?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Projeto passando conhecimento](https://www.linkedin.com/posts/guilherme-artigas_ola-pessoal-bom-dia-gostaria-de-compartilhar-activity-6894967369622786048-dGDg?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [Negação de frases em inglês](https://www.linkedin.com/feed/update/urn:li:activity:7003325148044922880/)
