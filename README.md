@@ -5,6 +5,7 @@ Olá!
 Estou em transição de carreira da área de telecomunicações para área de tecnologia, formado em Gestão da Tecnologia da informação e durante o meu curso conheci a disciplina de programação e a primeira linguagem que tive contato foi C#, onde escrevi um código para calcular as notas e médias, a resolução deste pequeno problema despertou a minha paixão pelo desenvolvimento de soluções através da programação, impactar a vida de pessoas e empresas através de um código bem escrito é meu objetivo e minha motivação.
 
 Em maio de 2022 iniciei meus estudos na Trybe com o objetivo de atuar como desenvolvedor web full stack e já possuo conhecimento em:
+<br />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
