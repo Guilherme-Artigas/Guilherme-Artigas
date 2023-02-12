@@ -1,4 +1,4 @@
-# Olá, seja bem... 👨‍💻
+# Olá, seja bem vindo... 👨‍💻
 
 Eu sou desenvolvedor Web Full Stack, amo tecnologias/linguagens que me possibilitam trabalhar de uma forma simples e eficiente tanto para Front-End quanto para o Back-End, adoro aplicar lógicas elaboradas, solucionar problemas complexos e refatorar código, tudo isso me ajuda a tornar um profissional cada dia melhor.
 
