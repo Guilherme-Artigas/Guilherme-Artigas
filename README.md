@@ -1,20 +1,21 @@
 # Olá, seja bem vindo... 👨‍💻
 
-Eu sou desenvolvedor Web Full Stack, amo tecnologias/linguagens que me possibilitam trabalhar de uma forma simples e eficiente tanto para Front-End quanto para o Back-End, adoro aplicar lógicas elaboradas, solucionar problemas complexos e refatorar código, tudo isso me ajuda a tornar um profissional cada dia melhor.
+Eu sou desenvolvedor web, atuo tanto no Front-end quanto no Back-end, em maio de 2022 dei início ao maior desafio da minha vida, uma transição de carreira! Decidi ingressar em um curso mega intensivo da Trybe e que me deu insumos necessários para alcançar o sonho de trabalhar como desenvolvedor.
 
-Me formei em Gestão da Tecnologia da Informação pela Faculdade Educacional da Lapa - [FAEL](https://fael.edu.br/), enquanto trabalhava como solucionador de problemas críticos e comunicador de uma das maiores empresas de telecomunicações do país ajudando clientes empresariais, foi nessa posição que aprimorei muito a minha empatia, escuta e comunicação assertiva.
+Sou formado em Gestão da Tecnologia da Informação pela Faculdade Educacional da Lapa - [FAEL](https://fael.edu.br/), tomei a decisão de cursar Tecnologia depois de conversar com um colega de trabalho e ele me convencer em montar um computador para estudos e entretenimento, passei meses pesquisando as melhores peças, toda essa pesquisa despertou o meu interesse em trabalhar com T.I.
 
-Eu decidi cursar Gestão da tecnologia da Informação, porque adoro gerenciamento de recursos e amo tecnologia e Hardware. Montei meu próprio computador pessoal, escolhi cada peça cuidadosamente pensando em uma máquina de bom desempenho e baixo custo para me atender a longo prazo, enquanto cursava a faculdade conheci a [Trybe](https://www.betrybe.com/), um ambiente de sonhos e oportunidades.
+Minha trajetória na [Trybe](https://www.betrybe.com/) me possibilitou praticar habilidades que já vinha aprimorando com o tempo através do meu trabalho com telecomunicações, e de adquirir novas skills em programação, e trabalhar em grupo com colegas e vencer obstáculos juntos, como em uma vez que precisávamos elaborar uma lógica de adicionar produtos a um carrinho de compras e somar quantidades do item e do preço, e que eu consegui contribuir com essa lógica e isso trouxe a nota necessária para aprovação do grupo, foi uma das sensações mais gratificantes que senti durante todo o curso.
 
-Em Março de 2022 comecei meus estudos na Trybe, onde aprimorei habilidades como trabalho em grupo e organização.
+Hoje sigo me especializando em desenvolvimento web, com NextJS.
 
-Hoje o meu sonho é ser programador! Estudo com muita dedicação todos os dias para poder oferecer sempre o meu melhor ao mercado de trabalho e a comunidade de programação que eu considero ser incrível.
+- Email: guilherme.artigas92@gmail.com
 
 ## Habilidades que possuo conhecimento, Front-End... 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
