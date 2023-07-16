@@ -6,7 +6,7 @@ Sou formado em Gestão da Tecnologia da Informação pela Faculdade Educacional 
 
 Minha trajetória na [Trybe](https://www.betrybe.com/) me possibilitou praticar habilidades que já vinha aprimorando com o tempo através do meu trabalho com telecomunicações, e de adquirir novas skills em programação, e trabalhar em grupo com colegas e vencer obstáculos juntos, como em uma vez que precisávamos elaborar uma lógica de adicionar produtos a um carrinho de compras e somar quantidades do item e do preço, e que eu consegui contribuir com essa lógica e isso trouxe a nota necessária para aprovação do grupo, foi uma das sensações mais gratificantes que senti durante todo o curso.
 
-Hoje sigo me especializando em desenvolvimento web, com NextJS.
+Hoje sigo me especializando em desenvolvimento web, com NextJS para Front-end e NodeJS para Back-end.
 
 - Email: guilherme.artigas92@gmail.com
 
