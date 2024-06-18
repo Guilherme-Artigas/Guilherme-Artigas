@@ -42,7 +42,7 @@ Hoje sigo me especializando em desenvolvimento web, com NextJS para Front-end e 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-artigas&count_private=true&layout=compact&theme=dark)](https://github.com/guilherme-artigas/github-readme-stats)
 
-## Últimos Posts:
+## Últimas postagens no LinkedIn:
 
 - [Alguns cuidados com o tipo Number](https://www.linkedin.com/posts/guilherme-artigas_ola-pessoal-bom-dia-continuando-minha-sequ%C3%AAncia-activity-6917432353355091968-dD1l?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Exercício em JavaScript](https://www.linkedin.com/posts/guilherme-artigas_exerc%C3%ADcio-em-javascript-que-pede-para-o-usu%C3%A1rio-activity-6895797642828611584-y0pm?utm_source=linkedin_share&utm_medium=member_desktop_web)
