@@ -1,4 +1,4 @@
-# Olá, seja bem vindo... 👨‍💻
+# Olá, seja bem vindo, ŕ um prazer ter você por aqui... ✌🏻
 
 Eu sou desenvolvedor web, atuo tanto no Front-end quanto no Back-end, em maio de 2022 dei início ao maior desafio da minha vida, uma transição de carreira! Decidi ingressar em um curso mega intensivo da Trybe e que me deu insumos necessários para alcançar o sonho de trabalhar como desenvolvedor.
 
